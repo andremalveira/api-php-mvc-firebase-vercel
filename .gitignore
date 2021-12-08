@@ -4,3 +4,4 @@ composer.phar
 /vendor
 .vercel
 .env
+/public/banner.psd

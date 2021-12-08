@@ -19,7 +19,7 @@ class Database {
   }
   public static function private($tableName = false){
     $database = self::connection();
-    $reference = $database->getReference($tableName);
+    $reference = $database->getReference('private/'.$tableName);
     return $reference->getValue();
   }
 }
