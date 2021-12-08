@@ -4,7 +4,7 @@
     data_base: URL DO BANCO DE DADOS DO SEU FIREBASE
     jwt_secret_signature: assinatura para gerar token, pode ser qualquer valor, Ex: nameApi51846 | asd243313dfs346nhtgy | myname123
 
-  Após fazer definir essas variáveis abaixo, renomeie esse arquivo para .env, removendo o .example
+  Após fazer definir essas variáveis abaixo, renomeie esse arquivo para .env, removendo o .php
   !!e apague esse todo esse comentário!!
 
   PARA AMBIENTE DE PRODUÇÃO
