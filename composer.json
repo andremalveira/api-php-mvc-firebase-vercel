@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": "^7.3",
+        "kreait/firebase-php": "^5.25",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/",
+            "src\\": "src/"
+        }
+    }
+}

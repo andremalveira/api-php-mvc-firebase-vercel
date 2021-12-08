@@ -1,0 +1,6 @@
+/.vscode
+composer.phar
+.DS_Store
+/vendor
+.vercel
+.env
