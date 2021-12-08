@@ -24,3 +24,12 @@
      
 
 ## Dependencies
+>Para produção, necessário para fazer conexão com Firebase
+- [Firebase Admin SDK for PHP](https://firebase-php.readthedocs.io/en/5.x/)
+
+   └── ```composer require kreait/firebase-php```
+
+> Para ambiente de desenvolvimento, necessário para usar as variáveis de ambiente (.env)
+- [PHP dotenv](https://github.com/vlucas/phpdotenv)
+
+   └── ```composer require vlucas/phpdotenv```
