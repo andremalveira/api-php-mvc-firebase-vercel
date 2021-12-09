@@ -1,5 +1,5 @@
 
-## Example API structure in PHP - MVC with Database Firebase for deployment in Vercel </p>
+## Example API structure in PHP - MVC with Firebase Database for deployment in Vercel </p>
 
   <a href="#php+firebase+vercel"><img src="public/header.png" alt="Hi!!"/></a>
 </p>
