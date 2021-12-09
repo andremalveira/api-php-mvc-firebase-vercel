@@ -18,6 +18,3 @@ use \core\Auth;
 if(Auth::checkout()) $router->run( $router->routes );
 
 
-/* echo '<pre>';
-print_r($_ENV['JWT_SECRET_SIGNATURE']);
-echo '<pre>'; */

@@ -1,6 +1,6 @@
 
-## <p align="center">Example API structure in PHP - MVC with Database Firebase for deployment in Vercel </p>
-<p align="center">
+## Example API structure in PHP - MVC with Database Firebase for deployment in Vercel </p>
+
   <a href="#php+firebase+vercel"><img src="public/header.png" alt="Hi!!"/></a>
 </p>
 
@@ -23,7 +23,7 @@
     │   └── users              
      
 
-## Dependencies
+## Dependencies/Require
 >Para produção, necessário para fazer conexão com Firebase
 - [Firebase Admin SDK for PHP](https://firebase-php.readthedocs.io/en/5.x/)
 

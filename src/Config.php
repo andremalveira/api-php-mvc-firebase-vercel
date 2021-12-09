@@ -14,7 +14,7 @@ class Config {
   // - the name of this key has to be the same in the database Ex: user | username |id 
   // - Nome da chave do dado do payload JWT que será verificada ao banco de dados, 
   // - o nome dessa chave tem que ser a mesma no banco de dados Ex: user | username |id  
-    const PAYLOAD_TO_VALIDATE = 'github_username';
+    const PAYLOAD_TO_VALIDATE = 'user';
 
   const ERROR_CONTROLLER = 'ErrorController';
   const DEFAULT_ACTION = 'index';
